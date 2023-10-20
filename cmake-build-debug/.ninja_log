@@ -1,0 +1,6 @@
+# ninja log v5
+20	242	7195183612668532	CMakeFiles/Code.dir/Sensor.cpp.obj	d3020fdf95e82916
+780	1306	7195197391020946	Code.exe	284ca1fb4eb54758
+5	779	7195197385638980	CMakeFiles/Code.dir/main.cpp.obj	84fc9d3aaca42312
+11	937	7195197010890855	CMakeFiles/Code.dir/Server.cpp.obj	fbd81a9d9970286d
+16	816	7195197009704633	CMakeFiles/Code.dir/Scheduler.cpp.obj	4a3e1a116d1c7e6c
